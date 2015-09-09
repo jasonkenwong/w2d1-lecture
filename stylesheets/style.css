@@ -1,0 +1,24 @@
+h1 {
+  text-align:center;
+}
+
+form{
+  max-width:400px;
+  margin:auto;
+}
+
+input,
+textarea{
+  width:100%;
+}
+
+label{
+  display:block;
+  cursor: pointer;
+}
+
+input.inline,
+label.inline {
+  display:inline;
+  width:auto;
+}
